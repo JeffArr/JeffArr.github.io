@@ -132,6 +132,5 @@ This project was a full journey from design to coding to analysis. I learned how
 ---
 # Try the experiment  <a name="experiment"></a>
 To run the experiment, click on the following link:
-
-https://cogs119.github.io/group_fa24_false_recall/
+<a href="https://cogs119.github.io/group_fa24_false_recall/" target="_blank">Run the experiment</a>
 
