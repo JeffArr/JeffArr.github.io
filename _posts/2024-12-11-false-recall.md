@@ -78,7 +78,7 @@ ggplot(summary_table, aes(x = word_types, y = mean_response, fill = word_types))
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
         plot.title  = element_text(hjust = 0.5))
 ```
-![False Recall Results](/post/mean_confidence-img.png)
+![False Recall Results](post/mean_confidence-img.png)
 
 
 
