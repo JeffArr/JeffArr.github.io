@@ -11,6 +11,9 @@ tags: [Psychology, Experiment, R, jsPsych, HTML, JavaScript]
    - [Context](#context)
    - [Research Questions & Hypotheses](#rq)
 - [02. Experimental Design](#design)
+   - [Participants](#participants)
+   - [Materials](#materials)
+   - [Procedure](#procedure)
 - [03. Implementation](#implementation)
 - [04. Results](#results)
 - [05. Discussion](#discussion)
@@ -43,9 +46,6 @@ Six DRM lists (12 words each) were selected from Roediger & McDermott (1995). Ea
 1. Study phase: Participants viewed (and heard) six lists, one word at a time; list order and within-list order were randomized. The critical lure was never shown.
 2. Recognition test: After study, participants completed a 42-item self-paced recognition test: 12 studied items (2 per list), 6 critical lures (one per list), 12 weakly related, and 12 unrelated items. Item order was randomized.
 3. Responses: For each word, participants made an old/new judgment and a confidence rating on a 4-point Likert scale (0 = Definitely New, 3 = Definitely Old).
-
-### Design Notes
-Within-subjects design. Randomization of lists, study items, and test items. Primary measures: false “old” rate by item type and mean confidence (0–3) by item type.
 
 # Implementation <a name="implementation"></a>
 * The experiment was developed using jsPsych, JavaScript, and HTML
