@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Air Travel Connectivity Analysis
-image: "/posts/flights_airports-img.png"
+image: "/posts/flights_aiports-img.png"
 tags: [Air Travel, Data Analysis, Python, Visualization]
 ---
 
