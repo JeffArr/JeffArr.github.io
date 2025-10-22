@@ -179,8 +179,9 @@ Major airlines such as American Airlines....
 
 3. Connectivity by Continent
 Countries were mapped to continents using the pycountry_convert library:
-```python
+
 # Function to identify the continent for each country
+```python
 def country_to_continent(name):
     try:
         a2 = pc.country_name_to_country_alpha2(name)
@@ -217,21 +218,30 @@ Europe and North America dominate the global air network, followed by Asia.
 | 20404 | DL | JNB | OR Tambo International Airport | South Africa | ATL | Hartsfield–Jackson Atlanta International Airport | United States | 13582.61 | 8439.84 |
 | 19560 | DL | ATL | Hartsfield–Jackson Atlanta International Airport | United States | JNB | OR Tambo International Airport | South Africa | 13582.61 | 8439.84 |
 | 13485 | B6 | DXB | Dubai International Airport | United Arab Emirates | LAX | Los Angeles International Airport | United States | 13400.10 | 8326.43 |
-| 22658 | EK | LAX | Los Angeles International Airport | United States | DXB | Dubai International Airport | United Arab Emirates | 13400.10 | 8326.43 |
-| 13612 | B6 | LAX | Los Angeles International Airport | United States | DXB | Dubai International Airport | United Arab Emirates | 13400.10 | 8326.43 |
-| 22576 | EK | DXB | Dubai International Airport | United Arab Emirates | LAX | Los Angeles International Airport | United States | 13400.10 | 8326.43 |
-| 50113 | SV | LAX | Los Angeles International Airport | United States | JED | King Abdulaziz International Airport | Saudi Arabia | 13389.84 | 8320.06 |
-| 50067 | SV | JED | King Abdulaziz International Airport | Saudi Arabia | LAX | Los Angeles International Airport | United States | 13389.84 | 8320.06 |
+
 
 > **Table 1.** Major intercontinental routes ranked by great-circle distance.
 
 
 # Part IV. Results & Insights <a name="results-insights"></a>
 
-Conclusion
-This project demonstrates how combining multiple OpenFlights datasets can uncover valuable insights about the global air travel network.
-Using Python, Pandas, and visualization tools like Matplotlib and Seaborn, we identified the hubs, airlines, and route patterns shaping worldwide connectivity.
+### Hub Dominance & Regional Patterns
+- **ATL leads in flight volume** - Demonstrating U.S. domestic market strength
+- **European hubs (LHR, CDG, FRA) excel in destination diversity** - Serving as global transfer points
+- **Flight density varies significantly** - European airports show higher efficiency vs. North American fragmentation
 
-If you’d like to view the source notebook, you can find it here:
+### Airline Business Models
+- **Ryanair dominates European short-haul** with low-cost, high-frequency model
+- **U.S. legacy carriers balance volume & global coverage** - American and United lead in comprehensive networks
+- **Partnership opportunities** between regional specialists and global carriers
+
+### Global Connectivity Gaps
+- **North America & Europe dominate** current air travel networks
+- **Africa & South America remain underconnected** - Presenting long-term growth opportunities
+- **Ultra-long-haul routes emerging** - Sydney–Dallas, Johannesburg–Atlanta signaling new market potentials
+
+
+If you’d like to view the source notebook, you can find it here: 
+<a href="https://cogs119.github.io/group_fa24_false_recall](https://github.com/JeffArr/air-travel-connectivity/blob/main/Air_Travel_Connectivity_Report.ipynb)/" target="_blank">Notebook</a>
 
 
