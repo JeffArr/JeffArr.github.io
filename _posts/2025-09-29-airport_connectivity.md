@@ -244,6 +244,4 @@ Europe and North America dominate the global air network, followed by Asia.
 
 
 If you’d like to view the source notebook, you can find it here: 
-<a href="https://cogs119.github.io/group_fa24_false_recall](https://github.com/JeffArr/air-travel-connectivity/blob/main/Air_Travel_Connectivity_Report.ipynb)/" target="_blank">Notebook</a>
-
-
+<a href="https://github.com/JeffArr/air-travel-connectivity/blob/main/Air_Travel_Connectivity_Report.ipynb/" target="_blank">Notebook</a>
