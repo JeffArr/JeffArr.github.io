@@ -120,6 +120,7 @@ routes['Destination airport ID'] = pd.to_numeric(routes['Destination airport ID'
 # Part III. Analysis & Visualization <a name="analysis-visualization"></a>
 
 1. Airports with the most flights:
+
 ``` python
 airports_flights = (
     pd.concat([
@@ -146,8 +147,8 @@ plt.title('Top 10 Airports by Number of Flights')
 plt.xlabel('Number of Flights')
 plt.ylabel('Airport')
 plt.show()
-
 ```
+
 <img src="/img/posts/top_10_airpots_most_flights.png" alt="Top 10 Airports by Number of Flights" style="max-width: 100%; height: auto;">
 
 Interpretation:
@@ -207,6 +208,7 @@ plt.tight_layout()
 plt.show()
 ```
 <img src="/img/posts/unique_airport_destinations_per_continent.png" alt="Air connectivity by continent" style="max-width: 100%; height: auto;">
+
 Europe and North America dominate the global air network, followed by Asia.
 
 4. Route Distance distribution
