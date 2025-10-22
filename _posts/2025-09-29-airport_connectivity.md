@@ -148,7 +148,8 @@ plt.ylabel('Airport')
 plt.show()
 
 ```
-<img src="/posts/top_10_airpots_most_flights.png" alt="Top 10 Airports by Number of Flights" style="max-width: 100%; height: auto;">
+<img src="/img/posts/top_10_airpots_most_flights.png" alt="Top 10 Airports by Number of Flights" style="max-width: 100%; height: auto;">
+
 Interpretation:
 The visualization shows which airports serve as major global hubs. Expectedly, airports like ATL, LHR, and DXB appear as dominant centers of connectivity.
 
@@ -171,7 +172,7 @@ plt.show()
 ```
 
 
-<img src="/posts/top_10_airlines_by_unique_destinations.png" alt="Top airlines by number of routes" style="max-width: 100%; height: auto;">
+<img src="/img/posts/top_10_airlines_by_unique_destinations.png" alt="Top airlines by number of routes" style="max-width: 100%; height: auto;">
 
 Major airlines such as American Airlines....
 
@@ -204,7 +205,7 @@ plt.ylabel('Unique Destinations')
 plt.tight_layout()
 plt.show()
 ```
-<img src="/posts/unique_airport_destinations_per_continent.png" alt="Air connectivity by continent" style="max-width: 100%; height: auto;">
+<img src="/img/posts/unique_airport_destinations_per_continent.png" alt="Air connectivity by continent" style="max-width: 100%; height: auto;">
 Europe and North America dominate the global air network, followed by Asia.
 
 4. Route Distance distribution
