@@ -24,7 +24,7 @@ tags: [Psychology, Experiment, R, jsPsych, HTML, JavaScript]
 
 # Project Overview  <a name="overview-main"></a>
 
-This project replicates Roediger & McDermott’s (1995) classic experiment on false memory formation using semantically associated word lists. The goal was to investigate how often people mistakenly recognize or recall words that were never presented, but are related to studied material.
+"We trust confident witnesses. This replication proved high confidence is a dangerous illusion: people were just as sure about words they never saw as ones they did. This project replicates Roediger & McDermott’s (1995) classic experiment on false memory formation using semantically associated word lists. The goal was to investigate how often people mistakenly recognize or recall words that were never presented, but are related to studied material.
 
 ### Context <a name="context "></a>
 This study examines false recognition in the DRM paradigm, where semantically related study lists can lead to endorsement of unpresented critical lures as “old.” The project aims to replicate core findings from Roediger & McDermott (1995) and quantify recognition performance and confidence across item types (studied, critical, weakly related, unrelated). The planned design specifies within-subjects exposure to six 12-word lists, a randomized recognition test, and dependent measures of recognition accuracy, false recognition rate, and confidence ratings on a 4-point scale. 
