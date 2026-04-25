@@ -2,6 +2,7 @@
 layout: post
 title: Air Travel Connectivity Analysis
 image: "/posts/flights_aiports-img.png"
+excerpt: "Analyzed global route networks to identify dominant hubs, airline business models, and connectivity gaps across continents."
 tags: [Air Travel, Data Analysis, Python, Visualization]
 ---
 
