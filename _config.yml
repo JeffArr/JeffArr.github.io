@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Jeff Arriola
-description: "Hi I'm Jeffrei, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Cognitive Science graduate (ML & Neural Computation) with hands-on experience in clinical data collection, experimental design, and machine learning. Seeking roles at the intersection of healthcare, research, and data"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
