@@ -2,7 +2,8 @@
 layout: post
 title: False Recall (Roediger & McDermott Replication)
 image: "/posts/false_recall_image-img.png"
-description: "We trust confident witnesses. This replication proved high confidence is a dangerous illusion: people were just as sure about words they never saw as ones they did."tags: [Psychology, Experiment, R, jsPsych, HTML, JavaScript]
+description: "We trust confident witnesses. This replication proved high confidence is a dangerous illusion: people were just as sure about words they never saw as ones they did."
+tags: [Psychology, Experiment, R, jsPsych, HTML, JavaScript]
 ---
 
 # Table of contents
