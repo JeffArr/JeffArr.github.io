@@ -2,11 +2,11 @@
 layout: post
 title: Air Travel Connectivity Analysis
 image: "/posts/flights_aiports-img.png"
-excerpt: "Analyzed global route networks to identify dominant hubs, airline business models, and connectivity gaps across continents."
+description: "Analyzed global route networks to identify dominant hubs, airline business models, and connectivity gaps across continents."
 tags: [Air Travel, Data Analysis, Python, Visualization]
 ---
 
-In this post, I explore global air travel connectivity using the OpenFlights dataset. The project investigates which airports and airlines dominate global routes, the distribution of flight distances, and patterns across continents.
+Analyzed global route networks to identify dominant hubs, airline business models, and connectivity gaps across continents. In this post, I explore global air travel connectivity using the OpenFlights dataset. The project investigates which airports and airlines dominate global routes, the distribution of flight distances, and patterns across continents.
 
 <br>
 
